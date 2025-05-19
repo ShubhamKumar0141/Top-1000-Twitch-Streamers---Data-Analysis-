@@ -34,7 +34,6 @@ Additional calculated fields were added in Excel to support deep analysis and da
 This project identifies key performance patterns among top streamers by analyzing streaming duration, game types, language trends, and growth metrics like followers per stream.  
 Dashboards created in Power BI visualize comparisons by streamer type, activity level, and most streamed games.
 
-> The goal was to identify what distinguishes **high-growth streamers** and uncover content and scheduling strategies that drive engagement.
 
 ---
 
