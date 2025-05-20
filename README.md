@@ -1,5 +1,5 @@
 
-# 📊 Top 1000 Twitch Streamers Data Analysis Project
+# Top 1000 Twitch Streamers Data Analysis Project
 
 ## 1.  Background & Overview
 
