@@ -9,7 +9,7 @@ This project explores the **Top 1000 Twitch Streamers** dataset to derive action
 The project is split into two stages:  
 - **Stage 1 (Excel):** Data cleaning, metric calculations, and structuring  
 - **Stage 2 (Power BI):** Dashboard creation, advanced visualizations, and insights delivery
-![Image](https://github.com/user-attachments/assets/b198648a-1ee3-46df-b85c-28587d8ef5f8)
+
 
 ---
 
@@ -25,7 +25,7 @@ The dataset contains **15+ columns**, including metrics on streamer behavior, pe
 - Games per Day, Followers per Day, Engagement Rate
 - Activity Level (High / Low), Most Active Day
 - Day with Most Followers Gained
-
+![Image](https://github.com/user-attachments/assets/b198648a-1ee3-46df-b85c-28587d8ef5f8)
 
 ---
 
