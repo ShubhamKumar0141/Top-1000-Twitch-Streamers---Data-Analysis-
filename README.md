@@ -25,7 +25,6 @@ The dataset contains **15+ columns**, including metrics on streamer behavior, pe
 - Activity Level (High / Low), Most Active Day
 - Day with Most Followers Gained
 
-Additional calculated fields were added in Excel to support deep analysis and dashboard interactivity.
 
 ---
 
@@ -64,7 +63,7 @@ Dashboards created in Power BI visualize comparisons by streamer type, activity 
   
 - **Stream Duration:** Ideal stream duration appears to be **between 3 to 6 hours** for maximizing followers gained per stream without viewer fatigue.
   
-- **Optimize Timing:** Stream during **high-growth days** like Saturday and Wednesday to maximize discoverability.
+- **Optimize Timing:** Stream during **high-growth days** like Friday and Wednesday to maximize discoverability.
 
 - **Localized Growth:** Encourage multilingual streamers, especially in Spanish or Portuguese, as they show potential in engagement spikes in non-English regions.
 
