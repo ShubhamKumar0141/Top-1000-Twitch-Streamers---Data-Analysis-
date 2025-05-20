@@ -69,7 +69,7 @@ Dashboards created in Power BI visualize comparisons by streamer type, activity 
 
 ---
 
-### 🔧 Tools Used:
+###  Tools Used:
 - **Microsoft Excel:** Data cleaning, formatting, derived column calculations
 - **Power BI:** Dashboard creation, KPI visuals, interactivity via slicers
 
