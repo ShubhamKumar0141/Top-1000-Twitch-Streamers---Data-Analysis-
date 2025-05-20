@@ -33,6 +33,7 @@ Additional calculated fields were added in Excel to support deep analysis and da
 
 This project identifies key performance patterns among top streamers by analyzing streaming duration, game types, language trends, and growth metrics like followers per stream.  
 Dashboards created in Power BI visualize comparisons by streamer type, activity level, and most streamed games.
+![Image](https://github.com/user-attachments/assets/ccc5e379-af30-4aa9-af22-f6f20cf94dcf)
 
 
 ---
@@ -44,14 +45,16 @@ Dashboards created in Power BI visualize comparisons by streamer type, activity 
 - **Type-Based Performance:**
   - **Esports streamers** streamed longer on average but had slightly lower followers gained per stream compared to personalities.
   - **Personality streamers** had higher engagement rates and more consistent viewership.
+ ![Image](https://github.com/user-attachments/assets/664f1278-e8a9-492a-bf10-e65f8a491e96)
 
 - **Content Strategy:**
   - Streamers with a narrower focus (e.g. one or two dominant games) generally performed better in games per day efficiency and engagement.
   - Variety streamers (many games/day) often had lower engagement unless paired with strong personality branding.
 
 - **Timing Patterns:**
-  - **Wednesday and Saturday** were the most active days across high-performing streamers.
+  - **Wednesday and Friday** were the most active days across high-performing streamers.
   - Most followers were gained on weekends, suggesting timing optimization could boost follower growth.
+ ![Image](https://github.com/user-attachments/assets/59376d8f-42db-4823-b04b-ca5c491079de)
 
 ---
 
